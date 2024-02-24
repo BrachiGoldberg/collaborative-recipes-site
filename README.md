@@ -3,7 +3,7 @@
 ## A sample project in React - Recipes site - Client side
 
 **
-(the server side is a node application, and I took it completely)
+
 
 this project based on using:
 
